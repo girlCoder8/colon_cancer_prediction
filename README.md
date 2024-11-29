@@ -7,29 +7,12 @@
     A project for predicting colon cancer types using AI algorithms.
   </p>
   <p align="center">
-    <a href="https://github.com/amoghasbhardwaj/AI-ML-Colon-Cancer/graphs/contributors">
-      <img src="https://img.shields.io/badge/contributors-1-blue" alt="Contributors" />
-    </a>
-    <a href="https://github.com/amoghasbhardwaj/AI-ML-Colon-Cancer/network/members">
-      <img src="https://img.shields.io/badge/forks-0-brightgreen" alt="Forks" />
-    </a>
-    <a href="https://github.com/amoghasbhardwaj/AI-ML-Colon-Cancer/stargazers">
-      <img src="https://img.shields.io/badge/stars-0-yellow" alt="Stars" />
-    </a>
-    <a href="https://github.com/amoghasbhardwaj/AI-ML-Colon-Cancer/issues">
-      <img src="https://img.shields.io/badge/issues-0-orange" alt="Issues" />
-    </a>
   </p>
   <p align="center">
     <a href="https://www.kaggle.com/datasets/scipygaurav/lung-and-colon-cancer-dataset-splitted">
       <strong>Explore the dataset »</strong>
     </a>
-    <br /><br />
-    ·
-    <a href="https://github.com/amoghasbhardwaj/AI-ML-Colon-Cancer/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/amoghasbhardwaj/AI-ML-Colon-Cancer/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+
 </div>
 
 <details>
@@ -79,7 +62,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/amoghasbhardwaj/AI-ML-Colon-Cancer.git
+   git clone https://github.com/girlCoder8/AI-ML-Colon-Cancer.git
 2. Navigate to the project directory
    ```sh
    cd Breast-Cancer-Prediction
